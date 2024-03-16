@@ -1,0 +1,164 @@
+[
+    
+      {
+        "recipe_id": "1",
+        "name": "Spaghetti Carbonara",
+        "image_url": "https://i.ibb.co/2sRkmf7/recipe-1.png",
+        "preparing_time": "30 minutes",
+        "calories": "500 kcal",
+        "ingredients": [
+          "Spaghetti",
+          "Eggs",
+          "Pancetta",
+          "Parmesan cheese",
+          "Black pepper",
+          "Salt"
+        ],
+        "instructions": [
+          "Cook spaghetti according to package instructions.",
+          "In a separate pan, cook pancetta until crispy.",
+          "In a bowl, whisk eggs, Parmesan cheese, salt, and black pepper.",
+          "Drain spaghetti and add it to the pan with pancetta. Mix well.",
+          "Turn off heat and quickly add the egg mixture, stirring constantly.",
+          "Serve hot with extra Parmesan cheese and black pepper."
+        ]
+      },
+      {
+        "recipe_id": "2",
+        "name": "Chicken Alfredo Pasta",
+        "image_url": "https://i.ibb.co/McJtwJN/recipe-2.png",
+        "preparing_time": "45 minutes",
+        "calories": "700 kcal",
+        "ingredients": [
+          "Chicken breast",
+          "Fettuccine pasta",
+          "Heavy cream",
+          "Parmesan cheese",
+          "Garlic",
+          "Butter",
+          "Salt",
+          "Black pepper"
+        ],
+        "instructions": [
+          "Cook fettuccine pasta according to package instructions.",
+          "Season chicken breast with salt and pepper, then grill or pan-sear until cooked through. Slice into strips.",
+          "In a saucepan, melt butter and sauté minced garlic until fragrant.",
+          "Pour in heavy cream and bring to a simmer.",
+          "Add grated Parmesan cheese and stir until melted and smooth.",
+          "Toss cooked pasta with the Alfredo sauce, then add sliced chicken strips on top.",
+          "Garnish with more Parmesan cheese and black pepper before serving."
+        ]
+      },
+      {
+        "recipe_id": "3",
+        "name": "Margherita Pizza",
+        "image_url": "https://example.com/margherita_pizza.jpg",
+        "preparing_time": "25 minutes",
+        "calories": "600 kcal",
+        "ingredients": [
+          "Pizza dough",
+          "Tomatoes",
+          "Fresh mozzarella cheese",
+          "Fresh basil leaves",
+          "Olive oil",
+          "Salt",
+          "Black pepper"
+        ],
+        "instructions": [
+          "Preheat your oven to the highest temperature (usually around 500°F or 260°C).",
+          "Roll out pizza dough into a circle on a floured surface.",
+          "Place the dough on a pizza stone or baking sheet.",
+          "Spread olive oil evenly over the dough.",
+          "Layer sliced tomatoes and fresh mozzarella cheese on top.",
+          "Sprinkle with salt and black pepper.",
+          "Bake in the preheated oven for about 10-12 minutes, or until the crust is golden and the cheese is bubbly.",
+          "Remove from oven, garnish with fresh basil leaves, slice, and serve."
+        ]
+      },
+      {
+        "recipe_id": "4",
+        "name": "Beef Tacos",
+        "image_url": "https://example.com/beef_tacos.jpg",
+        "preparing_time": "35 minutes",
+        "calories": "550 kcal",
+        "ingredients": [
+          "Ground beef",
+          "Taco seasoning",
+          "Taco shells",
+          "Lettuce",
+          "Tomatoes",
+          "Cheddar cheese",
+          "Sour cream",
+          "Salsa"
+        ],
+        "instructions": [
+          "Cook ground beef in a skillet over medium heat until browned.",
+          "Add taco seasoning and water according to package instructions.",
+          "Simmer until the sauce thickens and the beef is fully coated.",
+          "Warm taco shells in the oven or microwave.",
+          "Fill each taco shell with seasoned beef.",
+          "Top with shredded lettuce, diced tomatoes, grated cheddar cheese, sour cream, and salsa.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "recipe_id": "5",
+        "name": "Vegetable Stir-Fry",
+        "image_url": "https://example.com/vegetable_stir_fry.jpg",
+        "preparing_time": "20 minutes",
+        "calories": "300 kcal",
+        "ingredients": [
+          "Broccoli",
+          "Carrots",
+          "Bell peppers",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Soy sauce",
+          "Vegetable oil",
+          "Salt",
+          "Black pepper"
+        ],
+        "instructions": [
+          "Chop all vegetables into bite-sized pieces.",
+          "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+          "Add minced garlic and ginger, stir-fry for about 30 seconds.",
+          "Add sliced onion and cook until translucent.",
+          "Add carrots and bell peppers, stir-fry for a few minutes until slightly tender.",
+          "Add broccoli florets and continue stir-frying until all vegetables are cooked but still crisp.",
+          "Season with soy sauce, salt, and black pepper to taste.",
+          "Stir well to combine everything evenly.",
+          "Serve hot as a side dish or over cooked rice."
+        ]
+      },
+      {
+        "recipe_id": "6",
+        "name": "Chocolate Chip Cookies",
+        "image_url": "https://example.com/chocolate_chip_cookies.jpg",
+        "preparing_time": "15 minutes",
+        "calories": "150 kcal",
+        "ingredients": [
+          "All-purpose flour",
+          "Butter",
+          "Brown sugar",
+          "White sugar",
+          "Eggs",
+          "Vanilla extract",
+          "Baking soda",
+          "Salt",
+          "Chocolate chips"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C) and line baking sheets with parchment paper.",
+          "In a bowl, cream together softened butter, brown sugar, and white sugar until smooth.",
+          "Beat in eggs one at a time, then stir in vanilla extract.",
+          "Combine flour, baking soda, and salt; gradually add to the creamed mixture.",
+          "Fold in chocolate chips.",
+          "Drop dough by rounded spoonfuls onto the prepared baking sheets.",
+          "Bake for 8 to 10 minutes in the preheated oven, or until edges are golden.",
+          "Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+        ]
+      }
+    
+  
+] 
